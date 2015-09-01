@@ -19,11 +19,11 @@
     "package.json"
   ],
   "dependencies": {
-    "bootstrap": ">=2.3.2",
+    "bootstrap-sass": ">=3.3.4",
     "jquery": ">=1.9.0"
   },
   "devDependencies": {
     "jquery": "~2.1",
-    "bootstrap": "~3.3"
+    "bootstrap-sass": ">=3.3.4"
   }
 }
